@@ -1,11 +1,11 @@
 .card-img-top {
     width: 100%;
-    height: 10em;
+    height: 12em;
     object-fit: fill;
 }
 .scroll-behavior{
     scroll-behavior: smooth;
 }
 .card-text{
-    height: 5em;
+    height: 4em;
 }
