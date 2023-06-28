@@ -9,3 +9,7 @@
 .card-text{
     height: 5em;
 }
+.color-none{
+    text-decoration: none;
+    color: black;
+}
